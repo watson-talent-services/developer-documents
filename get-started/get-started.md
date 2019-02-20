@@ -11,7 +11,7 @@ go and help you to develop the careers of the people on your team.
 
 We've introduced our first API, IBM Watson Talent Match API which gives you an API that helps you find matches between a 
 person and a job requisition, using Watson. Check out the guide, click 
-[here to learn more.](https://github.ibm.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-talent-match.md)
+[here to learn more.](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-talent-match.md)
 
 ### Design guidance
 
