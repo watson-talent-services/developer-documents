@@ -12,7 +12,7 @@ Developer documentation for IBM’s Watson Talent platform. Find tutorials, guid
 
 [Engaging with us](https://github.com/watson-talent-services/developer-documents/blob/master/get-started/engaging-with-us.md)
 
-[What's New](https://github.com/watson-talent-services/developer-documents/blob/master/get-started/whats_new.md)
+[What's New](https://github.com/watson-talent-services/developer-documents/blob/master/get-started/whats-new.md)
 
 [Get Started](https://github.com/watson-talent-services/developer-documents/tree/master/get-started/get-started.md)
 
