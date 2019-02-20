@@ -34,5 +34,5 @@ In providing feedback let us know what sort of feedback you’re giving us, such
 
 To provide feedback, if it’s on an existing document or the API related to it, please create a fork and make your own changes and comments and create a Pull Request to draw our attention. If you want to comment in general or give us general feedback not directly related to documentation files, please create an issue. Also, create issues if you have suggestions for us in terms of Tutorials or code examples you’d like to see. 
 
-You can create an issue by [clicking here](https://github.com/watson-talent-services/develloper-documents/issues)
+You can create an issue by [clicking here](https://github.com/watson-talent-services/developer-documents/issues)
 
