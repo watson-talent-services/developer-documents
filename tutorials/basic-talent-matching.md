@@ -9,7 +9,7 @@ is: 'beta'
 In this tutorial, you'll see how to make a basic call to the IBM Watson Talent Match API using a tool for making REST calls. 
 In this case, we used Postman, but you can use whatever tool your comfortable with. 
 
-We've made this into a checklist so you can follow along. You can also grab this file, and open it with Postman to set all the right fields (you'll still need to get your ID/Secret and upload the files) - [Postman file for this tutorial](https:///github.com/watson-talent-services/developer-documents/blob/Add-Postman-File-For-Tutorial/tutorials/WTP-Talent%20Match%20v1.postman_collection.json).
+We've made this into a checklist so you can follow along. You can also grab this file, and open it with Postman to set all the right fields (you'll still need to get your ID/Secret and upload the files) - [Postman file for this tutorial](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials/WTP-Talent%20Match%20v1.postman_collection.json).
 
 ### 1. Fire up Postman, Enter the Talent Match API and set to POST
 
