@@ -16,7 +16,7 @@ Talent Match provides a way for you to submit your job requisition (job data) an
 Talent Match APIs and receive a Talent Match Score that indicates how well an applicant (person) meets the requisition (job) 
 requirements. 
 
-![IBM Watson Talent Match API](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/images/TalentMatchDiagram.png)
+![IBM Watson Talent Match API](https://github.ibm.com/watson-talent-services/developer-documents/blob/master/images/TalentMatchDiagram.png)
 
 Currently, the Talent Match APIs execute a one-to-one Watson Talent Match. The means the Talent Match API accepts one API call 
 at a time that contains a pair (job data and person data) and returns one Talent Match Score. 
@@ -105,7 +105,7 @@ Follow these steps to generate your ID and Secret.
 - Select Pick a Key.
 - Locate and select your Client-ID and Secret
 
-![API Explorer Security Screen](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/images/APIConnectSecurityScreen.png)
+![API Explorer Security Screen](https://github.ibm.com/watson-talent-services/developer-documents/blob/master/images/APIConnectSecurityScreen.png)
 
 The system authenticates your credentials and you are now ready to use the Talent Match API.
 
@@ -153,11 +153,11 @@ When posting to the Match API, you must post one of the following combinations. 
 
 The following is an example of a rawJob text sample. For illustration purposes, only the first few paragraphs of the text job description are shown.
 
-![DB Administrator Job Description](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/images/DBAdmin.png)
+![DB Administrator Job Description](https://github.ibm.com/watson-talent-services/developer-documents/blob/master/images/DBAdmin.png)
 
 You can also select a pdf file as a rawJob. The following is an example of a rawJob pdf example. For illustration purposes, only the first few paragraphs of the pdf job description are shown.
 
-![DB Administrator Job Description PDF](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/images/DBAdminPDFSnap.png)
+![DB Administrator Job Description PDF](https://github.ibm.com/watson-talent-services/developer-documents/blob/master/images/DBAdminPDFSnap.png)
 
 
 **rawPerson**
@@ -175,11 +175,11 @@ When posting to the Match API, you must post one of the following combinations. 
 
 The following is an example of a raw person text sample. For illustration purposes, only the first few paragraphs of the text person description are shown.
 
-![Resume](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/images/Resume.png)
+![Resume](https://github.ibm.com/watson-talent-services/developer-documents/blob/master/images/Resume.png)
 
 You can also select a pdf file as a rawPerson. The following is an example of a rawPerson pdf example. For illustration purposes, only the first few paragraphs of the pdf resume are shown.
 
-![Resume PDF](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/images/ResumePDF.png)
+![Resume PDF](https://github.ibm.com/watson-talent-services/developer-documents/blob/master/images/ResumePDF.png)
 
 ### ParsedJob API Input Schema
 
