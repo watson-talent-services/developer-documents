@@ -12,6 +12,8 @@ applicant’s skills match the requisition’s requirements. Talent Match not on
 to a requisition but also identifies and analyzes indirect skills and competencies from a candidate’s resume that are not 
 explicitly identified. The Talent Match API can parse structured and unstructured data.
 
+Note: You can begin your free trial by visting the [IBM Marketplace for the Talent Match API](https://www.ibm.com/us-en/marketplace/watson-talent-match/details). 
+
 Talent Match provides a way for you to submit your job requisition (job data) and applicant resumes (person data) using the 
 Talent Match APIs and receive a Talent Match Score that indicates how well an applicant (person) meets the requisition (job) 
 requirements. 
@@ -100,7 +102,7 @@ This will allow you to access the API securely.
 
 Follow these steps to generate your ID and Secret. 
 
-- Select the API Explorer URL in your invitation email. This will open API Explorer landing page.
+- Select the API Explorer URL in your invitation email. This will open [API Explorer](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match) landing page. 
 - Select **Security** in the left side navigation
 - Select Pick a Key.
 - Locate and select your Client-ID and Secret
