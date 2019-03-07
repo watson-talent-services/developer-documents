@@ -15,7 +15,7 @@ person and a job requisition, using Watson. Check out the guide, click
 
 You can begin your free trial by visting the [IBM Marketplace for the Talent Match API](https://www.ibm.com/us-en/marketplace/watson-talent-match/details). 
 
-And you can generate your sewfret and ID by visiting [Talent Match in API Explorer](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match).
+And you can generate your ID and Secret by visiting [Talent Match in API Explorer](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match).
 
 
 ### Design guidance
