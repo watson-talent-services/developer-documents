@@ -13,6 +13,11 @@ We've introduced our first API, IBM Watson Talent Match API which gives you an A
 person and a job requisition, using Watson. Check out the guide, click 
 [here to learn more.](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-talent-match.md)
 
+You can begin your free trial by visting the [IBM Marketplace for the Talent Match API](https://www.ibm.com/us-en/marketplace/watson-talent-match/details). 
+
+And you can generate your sewfret and ID by visiting [Talent Match in API Explorer](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match).
+
+
 ### Design guidance
 
 In addition to the specifics around using IBM Watson Talent Services, you may also be interested in incorporating a 
