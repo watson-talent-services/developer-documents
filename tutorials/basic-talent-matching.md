@@ -11,6 +11,8 @@ In this case, we used Postman, but you can use whatever tool your comfortable wi
 
 We've made this into a checklist so you can follow along. You can also grab this file, and open it with Postman to set all the right fields (you'll still need to get your ID/Secret and upload the files) - [Postman file for this tutorial](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials/WTP-Talent%20Match%20v1.postman_collection.json).
 
+You can begin your free trial by visting the [IBM Marketplace for the Talent Match API](https://www.ibm.com/us-en/marketplace/watson-talent-match/details). 
+
 ### 1. Fire up Postman, Enter the Talent Match API and set to POST
 
 - [ ] Fire up your REST test tool
@@ -39,7 +41,7 @@ We also added the version paramater to the URL itself, and Postman picks that up
 
 ![Go to the Headers tab](https://github.com/watson-talent-services/developer-documents/blob/master/images/PostmanStep4.png)
 
-You will need to get the credentials you received from the IBM API Explorer, you'll get one for your **ID* called **x-ibm-client-id** and one for your **Secret** called **x-ibm-client-secret**.
+You will need to get the credentials you received from the IBM API Explorer, you'll get one for your **ID* called **x-ibm-client-id** and one for your **Secret** called **x-ibm-client-secret**. [Get your credentials here](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match). 
 
 - [ ] Enter the Client ID key - called **x-ibm-client-id**, then enter the value to the **ID** value you received from API Explorer
 - [ ] Enter the Secret key  - called **x-ibm-client-secret**, , then enter the value to the **Secret** value you received from API Explorer
