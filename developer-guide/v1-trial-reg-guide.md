@@ -34,13 +34,14 @@ _IMAGE GOES HERE_
 Launch button on the dashboard will take you to the page shown below. You can also use this link to launch the App page directly
 [https://apiexplorer.swg.usma.ibm.com/test/explorer/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match](https://apiexplorer.swg.usma.ibm.com/test/explorer/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match)
 
-![]()
+![API Explore Landing Page](https://github.com/watson-talent-services/developer-documents/blob/master/images/APIExploreLanding.png)
 
 Go to **Security** tab > click **Keys** > click **Manage your keys**
 
-![]()
+![Security Page](https://github.com/watson-talent-services/developer-documents/blob/master/images/APIExplorerSecurityPage.png)
 
 ### Step 4: Generate your keys
 
+_IMAGE GOES HERE_
 ![]()
 
