@@ -42,6 +42,5 @@ Go to **Security** tab > click **Keys** > click **Manage your keys**
 
 ### Step 4: Generate your keys
 
-_IMAGE GOES HERE_
-![]()
+![API Explorer Keys](https://github.com/watson-talent-services/developer-documents/blob/master/images/APIExplorerKeys.png)
 
