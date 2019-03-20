@@ -26,6 +26,8 @@ Developer documentation for IBM’s Watson Talent platform. Find tutorials, guid
 
 [Talent Match in API Explorer](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match)
 
+[Steps to generate keys for the Talent Match API](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-trial-reg-guide.md)
+
 ## Guidelines for Contributing
 
 We put our content into this repository so that you could have access to what we’re working on and to give you a way to give us feedback, fix problems and create issues to connect with us on what you’re seeing here.
