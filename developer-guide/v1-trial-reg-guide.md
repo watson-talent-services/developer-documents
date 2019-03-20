@@ -27,7 +27,7 @@ You can also go to dashboard directly with the below link using the IBM ID and p
 [Dashboard](https://wwwpoc.ibm.com/myibm/dashboard/)
 
 Click “Launch” button in the app icon in the dashboard.
-_IMAGE GOES HERE_
+![Launch](https://github.com/watson-talent-services/developer-documents/blob/master/images/TalentMatchLaunch.png)
 
 ### Step 3: Visit the Talent Match API in API Explorer
 
