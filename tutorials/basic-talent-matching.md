@@ -56,7 +56,7 @@ Holy optometrists winfall Batman - we had to blur the ID and Secret we used, bec
 
 ### 4. Enter the Body
 
-Here we will use two files, one for the Job Requisition and one for the Person's work experience. We have a job requisition for a Dev Ops person [Job Requisition PDF](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/pdf/JobDescription.pdf) and a fictional resume for a person [Joe Schmoe's CV PDF](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/pdf/JoeSchmoeFakeResume.pdf).
+Here we will use two files, one for the Job Requisition and one for the Person's work experience. We have a job requisition for a Dev Ops person [Job Requisition PDF](https://github.com/watson-talent-services/developer-documents/blob/master/pdf/JobDescription.pdf) and a fictional resume for a person [Joe Schmoe's CV PDF](https://github.com/watson-talent-services/developer-documents/blob/master/pdf/JoeSchmoeFakeResume.pdf).
 
 - [ ] Change the Content type to **form-data** by selecting that radio button
 - [ ] Enter the name for the Job Requisition object, **rawJob**
@@ -91,7 +91,7 @@ We'll follow the same steps as above, but now for the **rawPerson** object to up
 - [ ] Enter the name for the Person object, **rawPerson**
 - [ ] Select the **Text** menu on the right of the **rawPerson** object name.
 - [ ] Select **File** from the drop down menu
-- [ ] Select the right file from your computer, we used [Joe Schmoe's CV PDF](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/pdf/JoeSchmoeFakeResume.pdf)
+- [ ] Select the right file from your computer, we used [Joe Schmoe's CV PDF](https://github.com/watson-talent-services/developer-documents/blob/master/pdf/JoeSchmoeFakeResume.pdf)
 
 ![Select the file](https://github.com/watson-talent-services/developer-documents/blob/master/images/PostmanStep9.png)
 
