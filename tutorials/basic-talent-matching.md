@@ -21,7 +21,7 @@ You can begin your free trial by visiting the [IBM Marketplace for the Talent Ma
 
 - [ ] Enter Talent Match API and change request verb to POST
 
-We also added the version paramater to the URL itself, and Postman picks that up and adds as a parameter
+We also added the version parameter to the URL itself, and Postman picks that up and adds as a parameter
 
 ![Entering the Talent Match API endpoint](https://github.com/watson-talent-services/developer-documents/blob/master/images/PostmanStep2.png)
 
@@ -41,7 +41,7 @@ We also added the version paramater to the URL itself, and Postman picks that up
 
 ![Go to the Headers tab](https://github.com/watson-talent-services/developer-documents/blob/master/images/PostmanStep4.png)
 
-You will need to get the credentials you received from the IBM API Explorer, you'll get one for your **ID* called **x-ibm-client-id** and one for your **Secret** called **x-ibm-client-secret**. [Get your credentials here](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match). 
+You will need to get the credentials you received from the IBM API Explorer, you'll get one for your **ID** called **x-ibm-client-id** and one for your **Secret** called **x-ibm-client-secret**. [Get your credentials here](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match). 
 
 - [ ] Enter the Client ID key - called **x-ibm-client-id**, then enter the value to the **ID** value you received from API Explorer
 - [ ] Enter the Secret key  - called **x-ibm-client-secret**, , then enter the value to the **Secret** value you received from API Explorer
@@ -67,7 +67,7 @@ Here we will use two files, one for the Job Requisition and one for the Person's
 
 ### 5. Select the file to use
 
-Since we're using a file we need to tell Postmant to upload it.
+Since we're using a file we need to tell Postman to upload it.
 
 - [ ] Select the **Text** menu on the right of the **rawJob** object name.
 - [ ] Select **File** from the drop down menu
