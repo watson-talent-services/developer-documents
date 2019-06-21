@@ -10,23 +10,34 @@ Developer documentation for IBM’s Watson Talent platform. Find tutorials, guid
 
 ## Developer Documentation
 
-[Engaging with us](https://github.com/watson-talent-services/developer-documents/blob/master/get-started/engaging-with-us.md)
+[Engaging with us](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/get-started/engaging-with-us.md)
 
-[What's New](https://github.com/watson-talent-services/developer-documents/blob/master/get-started/whats-new.md)
+[What's New](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/get-started/whats-new.md)
 
-[Get Started](https://github.com/watson-talent-services/developer-documents/tree/master/get-started/get-started.md)
+[Get Started](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/get-started/get-started.md)
 
-[Developer's Guide](https://github.com/watson-talent-services/developer-documents/tree/master/developer-guide)
+[Developer's Guide](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-developer-guide.md)
 
-[Tutorials](https://github.com/watson-talent-services/developer-documents/tree/master/tutorials)
+[Tutorials](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/tutorials)
 
-[Samples](https://github.com/watson-talent-services/developer-documents/tree/master/samples)
+[Samples](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/samples)
 
-[Start your free trial](https://www.ibm.com/us-en/marketplace/watson-talent-match/details)
+### Talent Match API
+
+[Start your free trial with Talent Match](https://www.ibm.com/us-en/marketplace/watson-talent-match/details)
 
 [Talent Match in API Explorer](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match)
 
-[Steps to generate keys for the Talent Match API](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-trial-reg-guide.md)
+[Steps to generate keys for the Talent Match API](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/developer-guide/v1-trial-reg-guide.md)
+
+[Talent Match Guide](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/developer-guide/v1-talent-match.md)
+
+### Talent Frameworks
+
+[Accessing Watson Talent Frameworks API](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-accessing-wtfp-api.md)
+
+[Talent Frameworks Guide](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-talent-frameworks-guide.md)
+
 
 ## Guidelines for Contributing
 
@@ -44,7 +55,7 @@ Using GitHub we hope you will connect with us by creating issues and commenting 
 
 **defect** - and if there’s errors in wording, spelling, code examples or functionality that just doesn’t cut it, please use this label to call our attention to bugs
 
-You can create an issue by [clicking here](https://github.com/watson-talent-services/developer-documents/issues)
+You can create an issue by [clicking here](https://github.ibm.com/TMS-Developer-Experience/developer-documents/issues)
 
 ## Making a Pull Request
 
@@ -53,4 +64,3 @@ If you’ve got some changes, updates, feedback or bugs you are itching to provi
 We use the fork-and-pull GitHub flow. You should fork this repository, configure a remote for your fork, and keep your fork in sync. This is all documented in the Working with forks GitHub documentation.
 
 Once your fork is configured and synced with the latest, you should make your changes on a topic branch, commit those changes, and push the branch to make a **Pull Request**.
-
