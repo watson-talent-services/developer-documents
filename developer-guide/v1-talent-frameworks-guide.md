@@ -12,7 +12,7 @@ To understand Talent Frameworks, consider the basic model for jobs and people in
 
 This basic model is at the core of Talent Frameworks. 
 
-![Talent Frameworks Core Model](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/TFCoreModel.png)
+![Talent Frameworks Core Model](https://github.com/watson-talent-services/developer-documents/blob/master/images/TFCoreModel.png)
 
 ---
 
@@ -23,7 +23,7 @@ Watson Talent Frameworks also includes interview questions, coaching tips, devel
 - New jobs and skills are continually added, curated by Watson.
 
 
-![puzzle](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/puzzle5.png)
+![puzzle](https://github.com/watson-talent-services/developer-documents/blob/master/images/puzzle5.png)
 
 
 ### What can you do with Talent Frameworks?
@@ -81,7 +81,7 @@ Watson Talent Frameworks provides not just the skills but also the level of skil
 
 Watson Talent Frameworks Publisher includes API functionality to easily access your entitled Talent Frameworks content. 
 To learn how to access these, please read 
-[Accessing Watson Talent Frameworks API](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/developer-guide/accessing-wtfp-api.md). 
+[Accessing Watson Talent Frameworks API](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-accessing-wtfp-api.md). 
 These pull APIs, accessed with your IBMID by using the IBM Marketplace, can be used with a third-party connector to integrate 
 with the APIs of other human capital management applications. IBM Global Business Services can be contracted to support 
 integration with Workday, Oracle, Cornerstone OnDemand and SAP SuccessFactors, or you can build your own. 
@@ -110,17 +110,17 @@ Here's an overview of the API's
 
 IBM has developed a concept of **Frameworks**, and has developed sets of these, to structure an entire organization around specific industries. 
 
-![Frameworks](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/FrameworksFull.png)
+![Frameworks](https://github.com/watson-talent-services/developer-documents/blob/master/images/FrameworksFull.png)
 
 ### Job Families
 
 **Frameworks** are made up of sets of **Job Families**.
 
-![Job Families](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/JobFamilyDef.png)
+![Job Families](https://github.com/watson-talent-services/developer-documents/blob/master/images/JobFamilyDef.png)
 
 Consider this example of a **Framework** for **Banking & Financial Services**, it is composed of many **Job Families**, like Accounting, Mortgage Lending, Investment Services and many more. 
 
-![Job Families](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/JobFamilyBankingExample.png)
+![Job Families](https://github.com/watson-talent-services/developer-documents/blob/master/images/JobFamilyBankingExample.png)
 
 ### Job and Job Profile
 
@@ -128,15 +128,15 @@ A **Job** represents the basic definition of a job in the organization.
 
 A **Job Profile** connects a specific **Job** to those competencies that constitute the **Job**. Each competency in a **Job Profile** needs to indicate a proficiency level. A scale of 0 to 4 is used to represent the proficiency of that competency, with 4 being the highest level (whiule 0 indicates no level at all).
 
-![Job and Profile](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/JobAndProfile.png)
+![Job and Profile](https://github.com/watson-talent-services/developer-documents/blob/master/images/JobAndProfile.png)
 
 ### Competency
 
 **Competency** represents the entirety of skills needed for all jobs in the organization and for the skills each person possesses .
 
-![Competency](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/Compentencies.png)
+![Competency](https://github.com/watson-talent-services/developer-documents/blob/master/images/Compentencies.png)
 
 
 **Competency Accelerators** represent items that can help people improve their proficiency in a competency, such as Learning References. **Competency Accelerators** are linked to **Job Profiles** and provide the actions people take to progress their careers.
 
-![Competency Accelerator](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/CompetencyAccelerator.png)
+![Competency Accelerator](https://github.com/watson-talent-services/developer-documents/blob/master/images/CompetencyAccelerator.png)
