@@ -34,9 +34,9 @@ Developer documentation for IBM’s Watson Talent platform. Find tutorials, guid
 
 ### Talent Frameworks
 
-[Accessing Watson Talent Frameworks API](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/accessing-wtfp-api.md)
+[Accessing Watson Talent Frameworks API](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-accessing-wtfp-api.md)
 
-[Talent Frameworks Guide](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/talent-frameworks-guide.md)
+[Talent Frameworks Guide](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-talent-frameworks-guide.md)
 
 
 ## Guidelines for Contributing
