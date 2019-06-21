@@ -16,7 +16,7 @@ Developer documentation for IBM’s Watson Talent platform. Find tutorials, guid
 
 [Get Started](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/get-started/get-started.md)
 
-[Developer's Guide](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/developer-guide.md)
+[Developer's Guide](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-developer-guide.md)
 
 [Tutorials](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/tutorials)
 
