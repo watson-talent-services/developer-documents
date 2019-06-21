@@ -20,7 +20,7 @@ Developer documentation for IBM’s Watson Talent platform. Find tutorials, guid
 
 [Tutorials](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/tutorials)
 
-[Samples](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/get-started/samples)
+[Samples](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/samples)
 
 ### Talent Match API
 
