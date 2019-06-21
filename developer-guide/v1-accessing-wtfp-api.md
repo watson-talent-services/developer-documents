@@ -28,4 +28,4 @@ After provisioning has been completed, entitled users receive a confirmation ema
 
 ![Selecting the key icon](https://github.com/watson-talent-services/developer-documents/blob/master/images/APIRef5.png)
 
-5. Select **API Docs** for additional information on requests, responses and getting started. Also read the guide, [Talent Frameworks Guide](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/talent-frameworks-guide.md).
+5. Select **API Docs** for additional information on requests, responses and getting started. Also read the guide, [Talent Frameworks Guide](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-talent-frameworks-guide.md).
