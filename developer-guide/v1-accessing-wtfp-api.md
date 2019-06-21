@@ -16,7 +16,7 @@ After provisioning has been completed, entitled users receive a confirmation ema
 2. Complete the details in the form and select **continue**. A verification page requesting a 7-digit code is sent through email. When the Verification code is accepted, the [MyIBM](http://myibm.ibm.com/) page opens.
 
 
-![The Create your IBM account window](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/images/APIRef1.png)
+![The Create your IBM account window](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/APIRef1.png)
    
 3. Select **Manage**. The user is directed to [/api explorer](https://developer.ibm.com/api/view/watsontalent-prod:ibm-watson-talent-frameworks:title-IBM_Watson_Talent_Frameworks) to view and manage API Keys, access additional documentation, and to test entitled APIs.
 
