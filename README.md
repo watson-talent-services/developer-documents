@@ -10,17 +10,17 @@ Developer documentation for IBM’s Watson Talent platform. Find tutorials, guid
 
 ## Developer Documentation
 
-[Engaging with us](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/get-started/engaging-with-us.md)
+[Engaging with us](https://github.com/watson-talent-services/developer-documents/blob/master/get-started/engaging-with-us.md)
 
-[What's New](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/get-started/whats-new.md)
+[What's New](https://github.com/watson-talent-services/developer-documents/blob/master/get-started/whats-new.md)
 
-[Get Started](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/get-started/get-started.md)
+[Get Started](https://github.com/watson-talent-services/developer-documents/blob/master/get-started/get-started.md)
 
-[Developer's Guide](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-developer-guide.md)
+[Developer's Guide](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-developer-guide.md)
 
-[Tutorials](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/tutorials)
+[Tutorials](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials)
 
-[Samples](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/samples)
+[Samples](https://github.com/watson-talent-services/developer-documents/blob/master/samples)
 
 ### Talent Match API
 
@@ -34,9 +34,9 @@ Developer documentation for IBM’s Watson Talent platform. Find tutorials, guid
 
 ### Talent Frameworks
 
-[Accessing Watson Talent Frameworks API](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-accessing-wtfp-api.md)
+[Accessing Watson Talent Frameworks API](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-accessing-wtfp-api.md)
 
-[Talent Frameworks Guide](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-talent-frameworks-guide.md)
+[Talent Frameworks Guide](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-talent-frameworks-guide.md)
 
 
 ## Guidelines for Contributing
