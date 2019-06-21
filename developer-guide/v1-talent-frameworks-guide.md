@@ -139,4 +139,4 @@ A **Job Profile** connects a specific **Job** to those competencies that constit
 
 **Competency Accelerators** represent items that can help people improve their proficiency in a competency, such as Learning References. **Competency Accelerators** are linked to **Job Profiles** and provide the actions people take to progress their careers.
 
-[Competency Accelerator](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/CompetencyAccelerator.png)
+![Competency Accelerator](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/images/CompetencyAccelerator.png)
