@@ -18,7 +18,7 @@ The Talent Match API helps you find matches between a person and a job requisiti
 
 You can **learn** about how the Talent Match API works, it's object model, and how you can call it.
 Check out the guide, click 
-[here to learn more.](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/developer-guide/v1-talent-match.md)
+[here to learn more.](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-talent-match.md)
 
 #### Second, Sign up
 
@@ -26,11 +26,11 @@ Once you're ready to start using the API, you can begin your free trial by visti
 
 #### Third, Get your credentials
 
-Once you've signed up, you can generate your ID and Secret by visiting [Talent Match in API Explorer](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match). There are detailed instructions too, click [Talent Match Key Generation Steps](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/developer-guide/v1-trial-reg-guide.md).
+Once you've signed up, you can generate your ID and Secret by visiting [Talent Match in API Explorer](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match). There are detailed instructions too, click [Talent Match Key Generation Steps](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-trial-reg-guide.md).
 
 #### Go and run the tutorial!
 
-Use the tutorial to walk you through your first use of the API, go to [Basic Talent Match tutorial isig Postman](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/master/tutorials/basic-talent-matching.md).
+Use the tutorial to walk you through your first use of the API, go to [Basic Talent Match tutorial isig Postman](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/tutorials/basic-talent-matching.md).
 
 ---
 
@@ -40,11 +40,11 @@ Talent Frameworks provides you with a complete definition of the entire organiza
 
 #### First, Learn
 
-You can learn more by reading [Talent Frameworks Developers Guide](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/tf-guide/developer-guide/talent-frameworks-guide.md).
+You can learn more by reading [Talent Frameworks Developers Guide](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-talent-frameworks-guide.md).
 
 #### Second, Access the API
 
-You can learn how to get your entitlement to use the API, read [Accessing Watson Talent Frameworks API](https://github.ibm.com/WatsonTalent/TMS-Developer-Experience/blob/Sync-TF-Docs/developer-guide/accessing-wtfp-api.md).
+You can learn how to get your entitlement to use the API, read [Accessing Watson Talent Frameworks API](https://github.com/watson-talent-services/developer-documents/blob/tf-publish/developer-guide/v1-accessing-wtfp-api.md).
 
 ---
 
