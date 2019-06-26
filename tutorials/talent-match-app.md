@@ -10,33 +10,33 @@ This simple application has three important sequences for the experience.
 
 **First** there is the default landing page, which guides the user to begin the experience. 
 
-![Landing screen](https://github.com/watson-talent-services/talent-match-app/blob/master/documentation-images/TMA1.png)
+![Landing screen](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA1.png)
 
 Then an animated form is displayed, first requesting the text for a Job Description. 
 
-![Job Description](https://github.com/watson-talent-services/talent-match-app/blob/master/documentation-images/TMA2.png)
+![Job Description](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA2.png)
 
 Once the user enters the information, the Continue button is enabled and the user can proceed to the next part. 
 
-![Filled in Job Description](https://github.com/watson-talent-services/talent-match-app/blob/master/documentation-images/TMA3.png)
+![Filled in Job Description](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA3.png)
 
 The page animates and the second part of the form is shown, asking for the Person's resume to be added. 
 
-![Person Resume](https://github.com/watson-talent-services/talent-match-app/blob/master/documentation-images/TMA4.png)
+![Person Resume](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA4.png)
 
 Once that is added, the submit button is enabled and the two items are submitted. 
 
-![Filled in Person Resume](https://github.com/watson-talent-services/talent-match-app/blob/master/documentation-images/TMA5.png)
+![Filled in Person Resume](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA5.png)
 
 The Talent Match API is called and the result is returned. 
 
 The main scoring elements are shown, **Required Skill Score**, **Match Score**, and **Foundational Skill Score**. 
 
-![Main Result](https://github.com/watson-talent-services/talent-match-app/blob/master/documentation-images/TMA6.png)
+![Main Result](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA6.png)
 
 Also there is a link shown which when clicked will show a hidden div element, that has the entire JSON body result. 
 
-![Detailed Result](https://github.com/watson-talent-services/talent-match-app/blob/master/documentation-images/TMA7.png)
+![Detailed Result](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA7.png)
 
 ### How the code works
 
