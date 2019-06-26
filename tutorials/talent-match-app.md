@@ -1,6 +1,7 @@
 # IBM Watson Talent Services talent-match-app
 This is a node server that demonstrates using the IBM Watson Talent Match API.
 
+The source code for this tutorial is available here, [IBM Watson Talent Match App Sample](https://github.com/watson-talent-services/talent-match-app).
 
 This application provides a straight forward user experience, and uses IBM's Carbon Design system for the style and design of the experience. 
 
@@ -134,5 +135,7 @@ var data = htmlData;
 Please refer to the developer experience we have in GitHub - you can get started here - [IBM Watson Talent Services - Get Started](https://github.com/watson-talent-services/developer-documents/blob/master/get-started/get-started.md).
 
 And you will need to start your free trial so you can get your credentials. You can follow this guide, [Talent Match Key Generation Steps(https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-trial-reg-guide.md).
+
+And don't forget, the source code for this is here, [IBM Watson Talent Match App Sample](https://github.com/watson-talent-services/talent-match-app).
 
 Enjoy!
