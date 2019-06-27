@@ -3,17 +3,22 @@ This is a node server that demonstrates using the IBM Watson Talent Match API.
 
 The source code for this tutorial is available here, [IBM Watson Talent Match App Sample](https://github.com/watson-talent-services/talent-match-app).
 
-This application provides a straight forward user experience, and uses IBM's Carbon Design system for the style and design of the experience. 
+This application provides a straight forward user experience, and uses [IBM's Carbon Design system](https://www.carbondesignsystem.com/) for the style and design of the experience. 
 
-### The basic flow for the experience
+## The basic flow for the experience
 
 This simple application has three important sequences for the experience. 
 
-**First** there is the default landing page, which guides the user to begin the experience. 
+### First 
+
+There is the default landing page, which guides the user to begin the experience. 
 
 ![Landing screen](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA1.png)
 
-Then an animated form is displayed, first requesting the text for a Job Description. 
+### Second
+
+We collect the Job Description and Person info.
+An animated form is displayed, first requesting the text for a Job Description. 
 
 ![Job Description](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA2.png)
 
@@ -29,8 +34,9 @@ Once that is added, the submit button is enabled and the two items are submitted
 
 ![Filled in Person Resume](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA5.png)
 
-The Talent Match API is called and the result is returned. 
+### Third
 
+The Talent Match API is called and the result is returned. 
 The main scoring elements are shown, **Required Skill Score**, **Match Score**, and **Foundational Skill Score**. 
 
 ![Main Result](https://github.com/watson-talent-services/developer-documents/blob/master/images/TMA6.png)
