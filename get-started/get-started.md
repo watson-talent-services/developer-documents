@@ -28,9 +28,11 @@ Once you're ready to start using the API, you can begin your free trial by visti
 
 Once you've signed up, you can generate your ID and Secret by visiting [Talent Match in API Explorer](https://developer.ibm.com/api/view/watsontalent-prod:watson-talent-match:title-Watson_Talent_Match). There are detailed instructions too, click [Talent Match Key Generation Steps](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-trial-reg-guide.md).
 
-#### Go and run the tutorial!
+#### Go and run one of the tutorials!
 
-Use the tutorial to walk you through your first use of the API, go to [Basic Talent Match tutorial isig Postman](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials/basic-talent-matching.md).
+There's two tutorials you can play with. Use the Postman tutorial to walk you through your first use of the API, go to [Basic Talent Match tutorial isig Postman](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials/basic-talent-matching.md).
+
+Or choose the NodeJS app, [the Talent Match App sample](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials/talent-match-app.md).
 
 ---
 
