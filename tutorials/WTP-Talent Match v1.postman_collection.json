@@ -1,12 +1,12 @@
 {
 	"info": {
-		"_postman_id": "3a899f2c-409d-4311-9baf-ee01f20088d4",
-		"name": "WTP-Talent Match v1",
+		"_postman_id": "c6a04992-5ad5-4010-b682-6c8f124f4bdb",
+		"name": "My Collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
 		{
-			"name": "IBM WATSON TALENT MATCH V1 EXAMPLE",
+			"name": "IBM Watson Talent Match V2",
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -15,33 +15,23 @@
 				"header": [
 					{
 						"key": "x-ibm-client-id",
-						"name": "Content-Type",
-						"type": "text",
-						"value": "ENTER YOUR CLIENT ID"
+						"value": "",
+						"type": "text"
 					},
 					{
 						"key": "x-ibm-client-secret",
-						"name": "Content-Type",
-						"type": "text",
-						"value": "ENTER YOUR SECRET"
+						"value": "",
+						"type": "text"
 					},
 					{
-						"key": "Content-type",
-						"type": "text",
-						"value": "multipart/form-data"
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text"
 					},
 					{
 						"key": "Accept",
-						"type": "text",
-						"value": "application/json"
-					},
-					{
-						"key": "Content-Type",
-						"value": "ENTER YOUR CLIENT ID"
-					},
-					{
-						"key": "Content-Type",
-						"value": "ENTER YOUR SECRET"
+						"value": "application/json",
+						"type": "text"
 					}
 				],
 				"body": {
@@ -49,40 +39,38 @@
 					"formdata": [
 						{
 							"key": "rawJob",
-							"description": "ADD A SAMPLE JOB DESCRIPTION",
+							"description": "ADD A  JOB DESCRIPTION",
 							"type": "file",
-							"src": ""
+							"src": "/Users/jrusso/Documents/JobDescription.pdf"
 						},
 						{
 							"key": "rawPerson",
-							"description": "ADD A SAMPLE RESUME",
+							"description": "ADD A RESUME",
 							"type": "file",
-							"src": ""
+							"src": "/Users/jrusso/Documents/JoeSchmoeFakeResume.pdf"
 						}
 					]
 				},
 				"url": {
-					"raw": "https://dev.api.ibm.com/watsontalent/development/match?version=1 ",
+					"raw": "https://api.ibm.com/watsontalent/run/match?version=2",
 					"protocol": "https",
 					"host": [
-						"dev",
 						"api",
 						"ibm",
 						"com"
 					],
 					"path": [
 						"watsontalent",
-						"development",
+						"run",
 						"match"
 					],
 					"query": [
 						{
 							"key": "version",
-							"value": "1 "
+							"value": "2"
 						}
 					]
-				},
-				"description": "SAMPLE FOR INVOKING IBM WATSON TALENT MATCH API"
+				}
 			},
 			"response": []
 		}
