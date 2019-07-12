@@ -30,7 +30,7 @@ Once you've signed up, you can generate your ID and Secret by visiting [Talent M
 
 #### Go and run one of the tutorials!
 
-There's two tutorials you can play with. Use the Postman tutorial to walk you through your first use of the API, go to [Basic Talent Match tutorial isig Postman](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials/basic-talent-matching.md).
+There's two tutorials you can play with. Use the Postman tutorial to walk you through your first use of the API, go to [Basic Talent Match tutorial using Postman](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials/basic-talent-matching.md).
 
 Or choose the NodeJS app, [the Talent Match App sample](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials/talent-match-app.md).
 
