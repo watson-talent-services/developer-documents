@@ -8,6 +8,7 @@ is: 'beta'
 
 | Date          | News item     | 
 | ------------: |:-------------| 
+| 12.Jul.19     | Updated the [Tutorial for Talent Match API using Postman](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials/basic-talent-matching.md) for the Talent Match API V2. |
 | 26.Jun.19     | Added the [Tutorial for Talent Match - a NodeJS Talent Match App](https://github.com/watson-talent-services/developer-documents/blob/master/tutorials/talent-match-app.md). |
 | 21.Jun.19     | Added [Talent Frameworks Developers Guide](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-talent-frameworks-guide.md) and [Accessing Watson Talent Frameworks API](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-accessing-wtfp-api.md).             | 
 | 20.Mar.19     | Added steps to [Generating keys for the IBM Watson Talent Match API](https://github.com/watson-talent-services/developer-documents/blob/master/developer-guide/v1-trial-reg-guide.md).             | 
