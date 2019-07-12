@@ -84,6 +84,8 @@ Since we're using a file we need to tell Postman to upload it.
 
 ![Select the file](https://github.com/watson-talent-services/developer-documents/blob/master/images/PostmanStep8-A.png)
 
+![Select the file](https://github.com/watson-talent-services/developer-documents/blob/master/images/PostmanStep8-B.png)
+
 ### 7. Enter the Person information
 
 We'll follow the same steps as above, but now for the **rawPerson** object to upload the person's work experience.
